@@ -1,0 +1,13 @@
+{
+  "items": [
+    { "id": 22095, "Banana": "Fruit" },
+    { "id": 22075, "Pear": "Fruit" }
+  ],
+  "recomendations": [
+    { "id": 22095, "item1": 22075},
+    { "id": 22075, "item1": 22095}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
